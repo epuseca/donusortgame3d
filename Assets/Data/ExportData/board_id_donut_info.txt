@@ -1,0 +1,1 @@
+{"buy_step":0,"coins":7,"level":1,"zone":1,"max_row":3,"rows":[{"color":"cyan", "row1":[0,2,1]},{"color":"yellow", "row1":[0,2,1]},{"color":"red", "row1":[-1,2,1]}], "step": "5"}

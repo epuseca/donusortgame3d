@@ -1,0 +1,4 @@
+#Wed Oct 02 10:54:23 ICT 2024
+base.0=E\:\\Game\\My project\\Donut_Sort_3D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
